@@ -1,0 +1,11 @@
+C:\Sachin\Development\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Sachin\Development\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Sachin\Development\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Sachin\Development\CalculatorApp\CalculatorApp\bin\Debug\CalculatorService.dll
+C:\Sachin\Development\CalculatorApp\CalculatorApp\bin\Debug\CalculatorService.pdb
+C:\Sachin\Development\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+C:\Sachin\Development\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Sachin\Development\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CopyComplete
+C:\Sachin\Development\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Sachin\Development\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\Sachin\Development\CalculatorApp\CalculatorApp\bin\Debug\SimpleInjector.dll

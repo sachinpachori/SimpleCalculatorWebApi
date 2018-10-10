@@ -1,0 +1,9 @@
+C:\Sachin\Development\SimpleCalculatorWebApi\SimpleCalculator.DomainEntities\bin\Debug\netcoreapp2.0\SimpleCalculator.DomainEntities.deps.json
+C:\Sachin\Development\SimpleCalculatorWebApi\SimpleCalculator.DomainEntities\bin\Debug\netcoreapp2.0\SimpleCalculator.DomainEntities.dll
+C:\Sachin\Development\SimpleCalculatorWebApi\SimpleCalculator.DomainEntities\bin\Debug\netcoreapp2.0\SimpleCalculator.DomainEntities.pdb
+C:\Sachin\Development\SimpleCalculatorWebApi\SimpleCalculator.DomainEntities\obj\Debug\netcoreapp2.0\SimpleCalculator.DomainEntities.csprojAssemblyReference.cache
+C:\Sachin\Development\SimpleCalculatorWebApi\SimpleCalculator.DomainEntities\obj\Debug\netcoreapp2.0\SimpleCalculator.DomainEntities.csproj.CoreCompileInputs.cache
+C:\Sachin\Development\SimpleCalculatorWebApi\SimpleCalculator.DomainEntities\obj\Debug\netcoreapp2.0\SimpleCalculator.DomainEntities.AssemblyInfoInputs.cache
+C:\Sachin\Development\SimpleCalculatorWebApi\SimpleCalculator.DomainEntities\obj\Debug\netcoreapp2.0\SimpleCalculator.DomainEntities.AssemblyInfo.cs
+C:\Sachin\Development\SimpleCalculatorWebApi\SimpleCalculator.DomainEntities\obj\Debug\netcoreapp2.0\SimpleCalculator.DomainEntities.dll
+C:\Sachin\Development\SimpleCalculatorWebApi\SimpleCalculator.DomainEntities\obj\Debug\netcoreapp2.0\SimpleCalculator.DomainEntities.pdb
